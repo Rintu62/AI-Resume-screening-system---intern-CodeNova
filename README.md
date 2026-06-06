@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ➜  Local:   http://localhost:5174/
 
 # SmartATS - Resume Scanner & ATS Optimizer
@@ -85,3 +86,7 @@ To publish this project to your own GitHub repository, open your terminal in the
    ```bash
    git push -u origin main
    ```
+=======
+# AI-Resume-screening-system---intern-CodeNova
+internship part time 
+>>>>>>> 3cadb09 (Initial commit)
