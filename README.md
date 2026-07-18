@@ -1,4 +1,4 @@
-
+editable!
 ➜  Local:   http://localhost:5174/
 
 # Smart Resume Screening - Resume Scanner & ATS Optimizer
