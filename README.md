@@ -1,6 +1,7 @@
 editable!
 ➜  Local:   http://localhost:5174/
 
+Alert - not depppd
 # Smart Resume Screening - Resume Scanner & ATS Optimizer
 
 SmartATS is a high-fidelity, interactive Resume ATS (Applicant Tracking System) Scanner & Analyzer dashboard. It helps candidates optimize their resumes against job descriptions by identifying keyword gaps, checking layout formatting, displaying recruiter warnings, and calculating detailed compatibility scores.
