@@ -153,7 +153,7 @@ On the login screen, you can use the pre-filled demo account details for instant
 
 ---
 
-## 🐙 Pushing to GitHub
+## 🐙 Pushing_to_GitHub
 
 To publish this project to your own GitHub repository, open your terminal in the project directory and run the following commands:
 
