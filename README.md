@@ -179,4 +179,4 @@ To publish this project to your own GitHub repository, open your terminal in the
    ```bash
    git push -u origin main
    ```
-
+<h3> ignore the git bash command </h3>
