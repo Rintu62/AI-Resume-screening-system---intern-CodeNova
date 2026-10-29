@@ -180,3 +180,8 @@ To publish this project to your own GitHub repository, open your terminal in the
    git push -u origin main
    ```
 <h3> ignore the git bash command </h3>
+I'll check it later.
+
+
+
+
