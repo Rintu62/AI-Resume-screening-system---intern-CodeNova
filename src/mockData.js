@@ -322,7 +322,7 @@ B.E. in Information Technology`,
     matchedSoft: ['Teamwork', 'Communication', 'Problem solving'],
     missingSoft: ['Proactively'],
     recommendations: [
-      "Add missing keyword 'API Integration' inside your experience details.",
+      "Add missing keyword 'API Integration' inside your experience details. ",
       "Add LinkedIn profile link to your resume."
     ]
   }
