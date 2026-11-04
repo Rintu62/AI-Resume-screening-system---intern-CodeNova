@@ -166,7 +166,7 @@ To publish this project to your own GitHub repository, open your terminal in the
    git add .
    ```
 3. **Create the initial commit**:
-   ```bash
+   ```bash...
    git commit -m "Initial commit: Complete ATS Resume Analyzer"
    ```
 4. **Create a new repository on GitHub** (without adding README or gitignore).
